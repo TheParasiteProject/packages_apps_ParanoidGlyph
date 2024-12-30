@@ -22,7 +22,7 @@
     <string name="summary_empty" translatable="false"></string>
 
     <!-- App Name -->
-    <string name="glyph_settings_app_name">Glyph interface</string>
+    <string name="glyph_settings_app_name">Glyph Interface Service</string>
 
     <!-- Ambient Display -->
     <string name="glyph_settings_enable">Glyph lights</string>
